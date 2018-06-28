@@ -9,23 +9,31 @@ import os
 
 
 class FormulaOneDNFParser(HTMLParser):
+    """
+    HTML parser for F1 DNFs.
+    """
 
     def __init__(self):
         HTMLParser.__init__(self)
         self.is_td_tag = False
-        self.ret = 0  # Retirement (Not Classified)
-        self.nc = 0  # Not Classified (finished)
-        self.dnq = 0  # Dit Not Qualify
-        self.dnpq = 0  # Did Not Pre Qualify
-        self.dsq = 0  # Disqualified
-        self.dns = 0  # Did Not Start
-        self.dnp = 0  # Did Not Practice
-        self.ex = 0  # Excluded
-        self.dna = 0  # Dit Not Arrive
-        self.wd = 0  # withdrawn
-        self.finish = 0  # Classified Finish
+        self.ret = 0        # Retirement (Not Classified)
+        self.nc = 0         # Not Classified (finished)
+        self.dnq = 0        # Dit Not Qualify
+        self.dnpq = 0       # Did Not Pre Qualify
+        self.dsq = 0        # Disqualified
+        self.dns = 0        # Did Not Start
+        self.dnp = 0        # Did Not Practice
+        self.ex = 0         # Excluded
+        self.dna = 0        # Dit Not Arrive
+        self.wd = 0         # withdrawn
+        self.finish = 0     # Classified Finish
 
     def handle_starttag(self, tag, attrs):
+        """
+        Parses HTML start tags to tell the parser if it can consider the data in the tag or not.
+        :param tag: the HTML tag being processed.
+        :param attrs: the HTML tag's attribute.
+        """
         try:
             if tag == 'td' and any('background-color' in attr for attr in attrs[0]):
                 self.is_td_tag = True
@@ -35,13 +43,18 @@ class FormulaOneDNFParser(HTMLParser):
             self.is_td_tag = False
 
     def handle_endtag(self, tag):
+        """
+        Parses HTML end tags to reset the boolean telling the parser if it can consider the data in the tag or not.
+        :param tag: the HTML tag being processed.
+        """
         if tag == 'td':
             self.is_td_tag = False
 
     def handle_data(self, data):
         """
-		Processes the text nodes between html <td> tags.
-		"""
+        Processes the text nodes between html <td> tags.
+        :param data: the text data.
+        """
         if self.is_td_tag:
             if data == 'Ret':
                 self.ret += 1

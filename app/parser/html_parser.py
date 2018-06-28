@@ -151,6 +151,9 @@ class FormulaOneDNFParser(HTMLParser):
         print("\n---------------------------------------------------------------------------")
         print("---------------------------------------------------------------------------\n")
 
+    def error(self, message):
+        pass
+
 
 def main():
     for filename in sorted(os.listdir(os.path.join(os.getcwd(), 'raw_data'))):

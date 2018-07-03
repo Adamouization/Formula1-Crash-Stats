@@ -15,7 +15,6 @@ class FormulaOneDNFParser(HTMLParser):
 
     def __init__(self):
         HTMLParser.__init__(self)
-        self.is_td_tag = False
         self.ret = 0        # Retirement (Not Classified)
         self.nc = 0         # Not Classified (finished)
         self.dnq = 0        # Dit Not Qualify
@@ -27,6 +26,9 @@ class FormulaOneDNFParser(HTMLParser):
         self.dna = 0        # Dit Not Arrive
         self.wd = 0         # withdrawn
         self.finish = 0     # Classified Finish
+        self.is_td_tag = False
+        self.is_th_tag = False
+        self.cur_th_data = ''
 
     def handle_starttag(self, tag, attrs):
         """
@@ -34,6 +36,7 @@ class FormulaOneDNFParser(HTMLParser):
         :param tag: the HTML tag being processed.
         :param attrs: the HTML tag's attribute.
         """
+        # check for <td> tag
         try:
             if tag == 'td' and any('background-color' in attr for attr in attrs[0]):
                 self.is_td_tag = True
@@ -42,20 +45,32 @@ class FormulaOneDNFParser(HTMLParser):
         except IndexError:
             self.is_td_tag = False
 
+        # check for <th> tag
+        if tag == 'th':
+        	self.is_th_tag = True
+
     def handle_endtag(self, tag):
         """
         Parses HTML end tags to reset the boolean telling the parser if it can consider the data in the tag or not.
         :param tag: the HTML tag being processed.
         """
+        # check for </td> tag
         if tag == 'td':
             self.is_td_tag = False
+
+        # check for </th> tag
+        if tag == 'th':
+        	self.is_th_tag = False
 
     def handle_data(self, data):
         """
         Processes the text nodes between html <td> tags.
         :param data: the text data.
         """
-        if self.is_td_tag:
+        if self.is_th_tag:
+        	self.cur_th_data = data
+
+        if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:
             if data == 'Ret':
                 self.ret += 1
             elif data == 'NC':
@@ -123,14 +138,16 @@ class FormulaOneDNFParser(HTMLParser):
         return self.wd
 
     def get_classified_finish(self):
-        return self.finish
-
-    def get_total_entries(self):
-        return self.get_classified_finish() + self.get_total_dnf()
+    	"""Return the number of classified finishes."""
+    	return self.finish
 
     def get_total_dnf(self):
         """Return the sum of all possible DNFs."""
         return self.ret + self.nc + self.dnq + self.dnpq + self.dsq + self.dns + self.dnp + self.ex + self.dna + self.wd
+
+    def get_total_entries(self):
+    	"""Return the total number of race entries (classified finishes + any DNF)."""
+    	return self.get_classified_finish() + self.get_total_dnf()
 
     def print_dnf_stats(self):
         print("---------")

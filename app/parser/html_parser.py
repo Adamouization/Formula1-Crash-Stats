@@ -29,6 +29,7 @@ class FormulaOneDNFParser(HTMLParser):
         self.is_td_tag = False
         self.is_th_tag = False
         self.cur_th_data = ''
+        self.cur_td_color = ''
 
     def handle_starttag(self, tag, attrs):
         """
@@ -38,8 +39,9 @@ class FormulaOneDNFParser(HTMLParser):
         """
         # check for <td> tag
         try:
-            if tag == 'td' and any('background-color' in attr for attr in attrs[0]):
-                self.is_td_tag = True
+            if tag in ['td', 'i', 'b'] and any('background-color' in attr for attr in attrs[0]):
+            	self.is_td_tag = True
+            	self.cur_td_color = attrs[0][1].split(':')[1]
             else:
                 self.is_td_tag = False
         except IndexError:
@@ -71,7 +73,7 @@ class FormulaOneDNFParser(HTMLParser):
         	self.cur_th_data = data
 
         if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:
-            if data == 'Ret':
+            if data == 'Ret' and self.cur_td_color == '#efcfff':
                 self.ret += 1
             elif data == 'NC':
                 self.nc += 1
@@ -81,7 +83,7 @@ class FormulaOneDNFParser(HTMLParser):
                 self.dnpq += 1
             elif data == 'DSQ':
                 self.dsq += 1
-            elif data == 'DNS':
+            elif data == 'DNS' and self.cur_td_color == '#ffffff':
                 self.dns += 1
             elif data == 'DNP':
                 self.dnp += 1
@@ -89,7 +91,7 @@ class FormulaOneDNFParser(HTMLParser):
                 self.ex += 1
             elif data == 'DNA':
                 self.dna += 1
-            elif data == 'WD':
+            elif data == 'WD' and self.cur_td_color == '':
                 self.wd += 1
             try:
                 if isinstance(int(data), int):

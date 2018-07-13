@@ -1,11 +1,4 @@
-# !/usr/bin/python3.5.1
 from html.parser import HTMLParser
-import os
-
-
-# flask guide: https://www.makeuseof.com/tag/python-javascript-communicate-json/
-# flask: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xviii-deployment-on-the-heroku-cloud-legacy
-# python flask host solution 1 https://www.pythonanywhere.com/details/flask_hosting OR heroku
 
 
 class FormulaOneDNFParser(HTMLParser):
@@ -40,8 +33,8 @@ class FormulaOneDNFParser(HTMLParser):
         # check for <td> tag
         try:
             if tag in ['td', 'i', 'b'] and any('background-color' in attr for attr in attrs[0]):
-            	self.is_td_tag = True
-            	self.cur_td_color = attrs[0][1].split(':')[1]
+                self.is_td_tag = True
+                self.cur_td_color = attrs[0][1].split(':')[1]
             else:
                 self.is_td_tag = False
         except IndexError:
@@ -49,7 +42,7 @@ class FormulaOneDNFParser(HTMLParser):
 
         # check for <th> tag
         if tag == 'th':
-        	self.is_th_tag = True
+            self.is_th_tag = True
 
     def handle_endtag(self, tag):
         """
@@ -62,7 +55,7 @@ class FormulaOneDNFParser(HTMLParser):
 
         # check for </th> tag
         if tag == 'th':
-        	self.is_th_tag = False
+            self.is_th_tag = False
 
     def handle_data(self, data):
         """
@@ -70,7 +63,7 @@ class FormulaOneDNFParser(HTMLParser):
         :param data: the text data.
         """
         if self.is_th_tag:
-        	self.cur_th_data = data
+            self.cur_th_data = data
 
         if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:
             if data == 'Ret' and self.cur_td_color == '#efcfff':
@@ -135,21 +128,42 @@ class FormulaOneDNFParser(HTMLParser):
         """Return the number of DNA (Did Not Arrive)."""
         return self.dna
 
-    def get_wdn(self):
+    def get_wd(self):
         """Return the number of withdraws."""
         return self.wd
 
     def get_classified_finish(self):
-    	"""Return the number of classified finishes."""
-    	return self.finish
+        """Return the number of classified finishes."""
+        return self.finish
 
     def get_total_dnf(self):
         """Return the sum of all possible DNFs."""
         return self.ret + self.nc + self.dnq + self.dnpq + self.dsq + self.dns + self.dnp + self.ex + self.dna + self.wd
 
     def get_total_entries(self):
-    	"""Return the total number of race entries (classified finishes + any DNF)."""
-    	return self.get_classified_finish() + self.get_total_dnf()
+        """Return the total number of race entries (classified finishes + any DNF)."""
+        return self.get_classified_finish() + self.get_total_dnf()
+
+    def get_dnf_stats_json(self):
+        """
+        Returns the DNF stats for a single season in a dict.
+        :return: dict
+        """
+        return {
+            'ret': self.get_ret(),
+            'nc': self.get_nc(),
+            'dnq': self.get_dnq(),
+            'dnpq': self.get_dnpq(),
+            'dsq': self.get_dsq(),
+            'dns': self.get_dns(),
+            'dnp': self.get_dnp(),
+            'ex': self.get_ex(),
+            'dna': self.get_dna(),
+            'wd': self.get_wd(),
+            'total_dnf': self.get_total_dnf(),
+            'total_classified_finish': self.get_classified_finish(),
+            'total_race_entries': self.get_total_entries()
+        }
 
     def print_dnf_stats(self):
         print("---------")
@@ -162,7 +176,7 @@ class FormulaOneDNFParser(HTMLParser):
         print("DNP: {}".format(self.get_dnp()))
         print("Exclusions: {}".format(self.get_ex()))
         print("DNA: {}".format(self.get_dna()))
-        print("WD: {}".format(self.get_wdn()))
+        print("WD: {}".format(self.get_wd()))
         print("Total DNF: {}".format(self.get_total_dnf()))
         print("---------")
         print("Total Classified finishes = {}".format(self.get_classified_finish()))
@@ -172,17 +186,3 @@ class FormulaOneDNFParser(HTMLParser):
 
     def error(self, message):
         pass
-
-
-def main():
-    for filename in sorted(os.listdir(os.path.join(os.getcwd(), 'raw_data'))):
-        parser = FormulaOneDNFParser()
-        with open(os.path.join(os.getcwd(), 'raw_data', filename), 'r') as file:
-            for line in file:
-                parser.feed(line)
-        print("{} Season".format(filename[:4]))
-        parser.print_dnf_stats()
-
-
-if __name__ == '__main__':
-    main()

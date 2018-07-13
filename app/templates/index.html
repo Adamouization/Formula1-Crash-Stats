@@ -1,0 +1,50 @@
+<html>
+<head>
+    {% if title %}
+    <title>{{ title }}</title>
+    {% else %}
+    <title>Welcome to F1 Crash Stats</title>
+    {% endif %}
+</head>
+<body>
+
+<table>
+    <tr>
+        <th>Season</th>
+        <th>Retirements</th>
+        <th>NC</th>
+        <th>DNQ</th>
+        <th>DNPQ</th>
+        <th>DSQ</th>
+        <th>DNS</th>
+        <th>DNP</th>
+        <th>Exclusions</th>
+        <th>DNA</th>
+        <th>WD</th>
+        <th>Total DNF</th>
+        <th>Total Classified finishes</th>
+        <th>Total race entries</th>
+    </tr>
+    {% for resp in data %}
+    <tr>
+        <td>{{ resp.season }}</td>
+        <td>{{ resp.ret }}</td>
+        <td>{{ resp.nc }}</td>
+        <td>{{ resp.dnq }}</td>
+        <td>{{ resp.dnpq }}</td>
+        <td>{{ resp.dsq }}</td>
+        <td>{{ resp.dns }}</td>
+        <td>{{ resp.dnp }}</td>
+        <td>{{ resp.ex }}</td>
+        <td>{{ resp.dna }}</td>
+        <td>{{ resp.wd }}</td>
+        <td>{{ resp.total_dnf }}</td>
+        <td>{{ resp.total_classified_finish }}</td>
+        <td>{{ resp.total_race_entries }}</td>
+    </tr>
+    {% endfor %}
+
+</table>
+
+</body>
+</html>

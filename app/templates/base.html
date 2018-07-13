@@ -1,0 +1,18 @@
+<html>
+<head>
+    {% if title %}
+    <title>{{ title }}</title>
+    {% else %}
+    <title>Welcome to F1 Crash Stats</title>
+    {% endif %}
+</head>
+<body>
+
+<h1>{{ title }}</h1>
+
+<hr>
+
+{% block content %}{% endblock %}
+
+</body>
+</html>

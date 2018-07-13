@@ -1,0 +1,16 @@
+adium-theme-ubuntu==0.3.4
+certifi==2018.4.16
+chardet==2.3.0
+decorator==4.0.6
+gyp==0.1
+ipython==2.4.1
+pexpect==4.0.1
+pi==0.1.2
+pipenv==2018.6.25
+ptyprocess==0.5
+Pygments==2.1
+simplegeneric==0.8.1
+unity-lens-photos==1.0
+vboxapi==1.0
+virtualenv==16.0.0
+virtualenv-clone==0.3.0

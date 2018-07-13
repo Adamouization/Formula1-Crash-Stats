@@ -18,7 +18,6 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 pbr==4.0.4
-pkg-resources==0.0.0
 python3-openid==3.1.0
 pytz==2018.4
 six==1.11.0

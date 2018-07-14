@@ -15,7 +15,7 @@ from .models import FormulaOneDNFParser
 @app.route('/index')
 def index():
     response_data = []
-    print("cwd {}".format(os.getcwd()))
+    print("cwd {}".format(os.path.join(os.getcwd(), 'raw_data')))
     for filename in sorted(os.listdir(os.path.join(os.getcwd(), 'raw_data'))):
         parser = FormulaOneDNFParser()
         with open(os.path.join(os.getcwd(), 'raw_data', filename), 'r') as file:

@@ -79,7 +79,7 @@ class FormulaOneDNFParser(HTMLParser):
                 self.dnpq += 1
             elif data == 'DSQ':
                 self.dsq += 1
-            elif data == 'DNS' and self.cur_td_color == '#ffffff':
+            elif data == 'DNS' and any(self.cur_td_color in c for c in ['#ffffff', '#FFFFFF']):
                 self.dns += 1
             elif data == 'DNP':
                 self.dnp += 1
@@ -87,7 +87,7 @@ class FormulaOneDNFParser(HTMLParser):
                 self.ex += 1
             elif data == 'DNA':
                 self.dna += 1
-            elif data == 'WD' and self.cur_td_color == '':
+            elif data == 'WD':
                 self.wd += 1
             try:
                 if isinstance(int(data), int):

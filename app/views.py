@@ -10,11 +10,11 @@ from .models import FormulaOneDNFParser
 @app.route('/index')
 def index():
     response_data = []
-    raw_data_files_path = os.path.join(os.getcwd(), 'raw_data')
+    raw_data_files_path = os.path.join(app.root_path, 'raw_data')
     if os.path.exists(raw_data_files_path):
         for filename in sorted(os.listdir(raw_data_files_path)):
             parser = FormulaOneDNFParser()
-            with open(os.path.join(os.getcwd(), 'raw_data', filename), 'r') as file:
+            with open(os.path.join(raw_data_files_path, filename), 'r') as file:
                 for line in file:
                     parser.feed(line)
             season_data = parser.get_dnf_stats_json()

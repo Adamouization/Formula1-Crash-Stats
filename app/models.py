@@ -30,17 +30,18 @@ class FormulaOneDNFParser(HTMLParser):
         :param tag: the HTML tag being processed.
         :param attrs: the HTML tag's attribute.
         """
-        # check for <td> tag
+
         try:
-            if tag in ['td', 'i', 'b'] and any('background-color' in attr for attr in attrs[0]):
+            if tag == 'td' and any('background-color' in attr for attr in attrs[0]):  # check for <td> tag
                 self.is_td_tag = True
                 self.cur_td_color = attrs[0][1].split(':')[1]
+            elif any(tag in t for t in ['i', 'b']):  # check for <i> or <b> tag within a <td> tag
+                self.is_td_tag = True
             else:
                 self.is_td_tag = False
         except IndexError:
             self.is_td_tag = False
 
-        # check for <th> tag
         if tag == 'th':
             self.is_th_tag = True
 
@@ -49,7 +50,7 @@ class FormulaOneDNFParser(HTMLParser):
         Parses HTML end tags to reset the boolean telling the parser if it can consider the data in the tag or not.
         :param tag: the HTML tag being processed.
         """
-        # check for </td> tag
+        # check for </td> tag (includes check for <i> and <b> tags included in <td> tags)
         if tag == 'td':
             self.is_td_tag = False
 
@@ -65,8 +66,8 @@ class FormulaOneDNFParser(HTMLParser):
         if self.is_th_tag:
             self.cur_th_data = data
 
-        if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:
-            if data == 'Ret' and self.cur_td_color == '#efcfff':
+        if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:  # exclude these columns
+            if data == 'Ret' and any(self.cur_td_color in c for c in ['#efcfff', '#EFCFFF']):
                 self.ret += 1
             elif data == 'NC':
                 self.nc += 1

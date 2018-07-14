@@ -22,4 +22,4 @@ def index():
             response_data.append(season_data)
     else:
         print("The following path does not exist: {}".format(raw_data_files_path))
-    return render_template('index.html', title='F1 Crash Stats', data=response_data)
+    return render_template('index.html', data=response_data)

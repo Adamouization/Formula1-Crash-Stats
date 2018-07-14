@@ -32,9 +32,11 @@ class FormulaOneDNFParser(HTMLParser):
         """
 
         try:
-            if tag == 'td' and any('background-color' in attr for attr in attrs[0]):  # check for <td> tag
+            if tag == 'td':  # check for <td> tag
                 self.is_td_tag = True
-                self.cur_td_color = attrs[0][1].split(':')[1]
+                if len(attrs) > 0:
+                    if any('background-color' in attr for attr in attrs[0]):
+                        self.cur_td_color = attrs[0][1].split(':')[1]
             elif any(tag in t for t in ['i', 'b']):  # check for <i> or <b> tag within a <td> tag
                 self.is_td_tag = True
             else:

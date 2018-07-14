@@ -10,7 +10,7 @@ from .models import FormulaOneDNFParser
 @app.route('/index')
 def index():
     response_data = []
-    raw_data_files_path = '/raw_data'
+    raw_data_files_path = 'raw_data'
     if os.path.exists(raw_data_files_path):
         for filename in sorted(os.listdir(raw_data_files_path)):
             parser = FormulaOneDNFParser()

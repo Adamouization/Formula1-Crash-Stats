@@ -22,9 +22,11 @@ Clone the repository (or download the zipped project):
 Create a virtual environment for the project and activate it:
 
 ```
+virtualenv ~/Environments/F1-Crash-Stats
+source F1-Crash-Stats/bin/activate
 ```
 
-Once you have the virtualenv activated and set up, `cd` into the prokect directory and install the requirements needed to run the app:
+Once you have the virtualenv activated and set up, `cd` into the project directory and install the requirements needed to run the app:
 
 ```
 pip install -r requirements.txt
@@ -32,10 +34,13 @@ pip install -r requirements.txt
 
 You can now run the app:
 ```
-python app/run.py
+python run.py
 ```
 
 The app will now be running (`Ctrl + C` to stop it) and you can visit it at: `127.0.0.1:4000`
+
+## TODO
+* see [TODO Project Board](https://github.com/Adamouization/Formula1-Crash-Stats/projects/1)
 
 ## License 
 * see [LICENSE](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) file.

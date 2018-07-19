@@ -1,0 +1,888 @@
+<table class="wikitable" style="font-size:85%; text-align:center;">
+
+<tbody><tr valign="top">
+<th valign="middle"><abbr title="Position">Pos.</abbr>
+</th>
+<th valign="middle">Constructor
+</th>
+<th valign="middle"><abbr title="Car number">No.</abbr>
+</th>
+<th><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a><br /><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span>
+</th>
+<th><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a><sup><small>‡</small></sup><br /><span class="flagicon"><a href="/wiki/Malaysia" title="Malaysia"><img alt="Malaysia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="2800" data-file-height="1400" /></a></span>
+</th>
+<th><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a><br /><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a><br /><span class="flagicon"><a href="/wiki/Bahrain" title="Bahrain"><img alt="Bahrain" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900" /></a></span>
+</th>
+<th><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a><br /><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span>
+</th>
+<th><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a><br /><span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="750" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a><br /><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span>
+</th>
+<th><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a><br /><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a><br /><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a><br /><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a><br /><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span>
+</th>
+<th><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a><br /><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span>
+</th>
+<th><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a><br /><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span>
+</th>
+<th><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a><br /><span class="flagicon"><a href="/wiki/Singapore" title="Singapore"><img alt="Singapore" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880" /></a></span>
+</th>
+<th><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a><br /><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a><br /><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span>
+</th>
+<th><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a><br /><span class="flagicon"><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates"><img alt="United Arab Emirates" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th valign="middle"><a href="/wiki/List_of_Formula_One_World_Championship_points_scoring_systems" title="List of Formula One World Championship points scoring systems">Points</a>
+</th></tr>
+<tr>
+<th rowspan="2">1
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>22
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#ffffbf;"><i><b>1</b></i>
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#ffffbf;">1
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#ffffbf;"><i>1</i>
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<th rowspan="2">172
+</th></tr>
+<tr>
+<td>23
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;"><i>4</i>
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfdfdf;"><i>2</i>
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#ffffbf;">1
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#ffffbf;">1
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#dfffdf;"><b>8</b>
+</td>
+<td style="background:#dfffdf;">4
+</td></tr>
+<tr>
+<th rowspan="2">2
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>14
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#ffdf9f;"><i>3</i>
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;"><i>17</i>
+</td>
+<td style="background:#ffffbf;"><i>1</i>
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<th rowspan="2">153.5
+</th></tr>
+<tr>
+<td>15
+</td>
+<td style="background:#cfcfff;">13<sup>†</sup>
+</td>
+<td style="background:#cfcfff;">15<sup>†</sup>
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#ffdf9f;"><b>3</b>
+</td>
+<td style="background:#ffffbf;"><i><b>1</b></i>
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#ffdf9f;"><i>3</i>
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#ffffbf;"><i>1</i>
+</td></tr>
+<tr>
+<th rowspan="2">3
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
+</td>
+<td>1
+</td>
+<td style="background:black; color:white;">DSQ
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">18
+</td>
+<td style="background:#ffffbf;">1
+</td>
+<td style="background:#dfdfdf;"><b>2</b>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;"><b>12</b><sup>†</sup>
+</td>
+<td style="background:#ffffbf;"><b>1</b>
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#efcfff;"><b>Ret</b>
+</td>
+<th rowspan="2">71
+</th></tr>
+<tr>
+<td>2
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">11
+</td></tr>
+<tr>
+<th rowspan="2">4
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>3
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;"><i>4</i>
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:white;">DNS
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<th rowspan="2">70
+</th></tr>
+<tr>
+<td>4
+</td>
+<td style="background:#cfcfff;">15<sup>†</sup>
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#ffffbf;">1
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#cfcfff;">12
+</td></tr>
+<tr>
+<th rowspan="2">5
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a>
+</td>
+<td>9
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#ffdf9f;"><i><b>3</b></i>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<th rowspan="2">59.5
+</th></tr>
+<tr>
+<td>10
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#ffdf9f;">3
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#cfcfff;"><i>14</i>
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:white;">DNS
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfffdf;">6
+</td></tr>
+<tr>
+<th rowspan="2">6
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
+</td>
+<td>5
+</td>
+<td style="background:#cfcfff;">14<sup>†</sup>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">18
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<th rowspan="2">36
+</th></tr>
+<tr>
+<td>6
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#dfdfdf;">2
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">19
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">5
+</td></tr>
+<tr>
+<th rowspan="2">7
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a>
+</td>
+<td>16
+</td>
+<td style="background:#dfffdf;"><i>6</i>
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#dfffdf;">4
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<th rowspan="2">34.5
+</th></tr>
+<tr>
+<td>17
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">15<sup>†</sup>
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">18
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td></tr>
+<tr>
+<th rowspan="2">8
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
+</td>
+<td>7
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#dfffdf;"><i>7</i>
+</td>
+<td style="background:#efcfff;"><b>Ret</b>
+</td>
+<td style="background:#dfffdf;">6
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">5
+</td>
+<td style="background:#ffdf9f;"><i>3</i>
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<th rowspan="2">26
+</th></tr>
+<tr>
+<td>8
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#cfcfff;">18
+</td></tr>
+<tr>
+<th rowspan="2">9
+</th>
+<td rowspan="2" style="text-align:left;"><span class="nowrap"><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span>
+</td>
+<td>20
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#cfcfff;">17<sup>†</sup>
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#dfffdf;"><i>4</i>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<th rowspan="2">13
+</th></tr>
+<tr>
+<td>21
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">18<sup>†</sup>
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">9
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#dfdfdf;"><b>2</b>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">15
+</td></tr>
+<tr>
+<th rowspan="2">10
+</th>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
+</td>
+<td>11
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">10
+</td>
+<td style="background:#cfcfff;">11
+</td>
+<td style="background:#cfcfff;">13
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">18
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">14
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<th rowspan="2">8
+</th></tr>
+<tr>
+<td>12
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#cfcfff;">16<sup>†</sup>
+</td>
+<td style="background:#dfffdf;">8
+</td>
+<td style="background:#cfcfff;">17
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">15
+</td>
+<td style="background:#cfcfff;">18
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#cfcfff;">16
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#cfcfff;">12
+</td>
+<td style="background:#cfcfff;">13<sup>†</sup>
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#efcfff;">Ret
+</td>
+<td style="background:#dfffdf;">7
+</td>
+<td style="background:#dfffdf;">8
+</td></tr>
+<tr valign="top">
+<th valign="middle"><abbr title="Position">Pos.</abbr>
+</th>
+<th valign="middle">Constructor
+</th>
+<th valign="middle"><abbr title="Car number">No.</abbr>
+</th>
+<th><a href="/wiki/2009_Australian_Grand_Prix" title="2009 Australian Grand Prix">AUS</a><br /><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span>
+</th>
+<th><a href="/wiki/2009_Malaysian_Grand_Prix" title="2009 Malaysian Grand Prix">MAL</a><sup><small>‡</small></sup><br /><span class="flagicon"><a href="/wiki/Malaysia" title="Malaysia"><img alt="Malaysia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="2800" data-file-height="1400" /></a></span>
+</th>
+<th><a href="/wiki/2009_Chinese_Grand_Prix" title="2009 Chinese Grand Prix">CHN</a><br /><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Bahrain_Grand_Prix" title="2009 Bahrain Grand Prix">BHR</a><br /><span class="flagicon"><a href="/wiki/Bahrain" title="Bahrain"><img alt="Bahrain" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900" /></a></span>
+</th>
+<th><a href="/wiki/2009_Spanish_Grand_Prix" title="2009 Spanish Grand Prix">ESP</a><br /><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span>
+</th>
+<th><a href="/wiki/2009_Monaco_Grand_Prix" title="2009 Monaco Grand Prix">MON</a><br /><span class="flagicon"><a href="/wiki/Monaco" title="Monaco"><img alt="Monaco" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" width="19" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" data-file-width="750" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Turkish_Grand_Prix" title="2009 Turkish Grand Prix">TUR</a><br /><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span>
+</th>
+<th><a href="/wiki/2009_British_Grand_Prix" title="2009 British Grand Prix">GBR</a><br /><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_German_Grand_Prix" title="2009 German Grand Prix">GER</a><br /><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Hungarian_Grand_Prix" title="2009 Hungarian Grand Prix">HUN</a><br /><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_European_Grand_Prix" title="2009 European Grand Prix">EUR</a><br /><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span>
+</th>
+<th><a href="/wiki/2009_Belgian_Grand_Prix" title="2009 Belgian Grand Prix">BEL</a><br /><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span>
+</th>
+<th><a href="/wiki/2009_Italian_Grand_Prix" title="2009 Italian Grand Prix">ITA</a><br /><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span>
+</th>
+<th><a href="/wiki/2009_Singapore_Grand_Prix" title="2009 Singapore Grand Prix">SIN</a><br /><span class="flagicon"><a href="/wiki/Singapore" title="Singapore"><img alt="Singapore" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880" /></a></span>
+</th>
+<th><a href="/wiki/2009_Japanese_Grand_Prix" title="2009 Japanese Grand Prix">JPN</a><br /><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span>
+</th>
+<th><a href="/wiki/2009_Brazilian_Grand_Prix" title="2009 Brazilian Grand Prix">BRA</a><br /><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span>
+</th>
+<th><a href="/wiki/2009_Abu_Dhabi_Grand_Prix" title="2009 Abu Dhabi Grand Prix">ABU</a><br /><span class="flagicon"><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates"><img alt="United Arab Emirates" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span>
+</th>
+<th valign="middle"><a href="/wiki/List_of_Formula_One_World_Championship_points_scoring_systems" title="List of Formula One World Championship points scoring systems">Points</a>
+</th></tr></tbody></table>

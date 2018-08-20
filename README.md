@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats)
+
 Formula1-Crash-Stats
 ====================
 

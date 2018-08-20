@@ -30,8 +30,8 @@ class FormulaOneDNFParserTest(unittest.TestCase):
             self.assertEqual(season_data['dna'], 0)
             self.assertEqual(season_data['wd'], 1)
             self.assertEqual(season_data['total_dnf'], 83)
-            self.assertEqual(season_data['total_classified_finish'], 373)
-            self.assertEqual(season_data['total_race_entries'], 456)
+            self.assertEqual(season_data['total_classified_finish'], 374)
+            self.assertEqual(season_data['total_race_entries'], 457)
 
     def test_type_2_wikitable(self):
         """Test data based on 2012 season with second type of wikitable."""

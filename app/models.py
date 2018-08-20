@@ -30,7 +30,6 @@ class FormulaOneDNFParser(HTMLParser):
         :param tag: the HTML tag being processed.
         :param attrs: the HTML tag's attribute.
         """
-
         try:
             if tag == 'td':  # check for <td> tag
                 self.is_td_tag = True
@@ -52,12 +51,9 @@ class FormulaOneDNFParser(HTMLParser):
         Parses HTML end tags to reset the boolean telling the parser if it can consider the data in the tag or not.
         :param tag: the HTML tag being processed.
         """
-        # check for </td> tag (includes check for <i> and <b> tags included in <td> tags)
         if tag == 'td':
             self.is_td_tag = False
-
-        # check for </th> tag
-        if tag == 'th':
+        elif tag == 'th':
             self.is_th_tag = False
 
     def handle_data(self, data):

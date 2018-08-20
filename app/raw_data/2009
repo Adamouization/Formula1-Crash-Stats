@@ -46,803 +46,433 @@
 <tr>
 <th rowspan="2">1
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
-</td>
-<td>22
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffffbf;"><i><b>1</b></i>
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#ffdf9f;">3
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brawn_GP" title="Brawn GP">Brawn</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></td>
+<td>22</td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffffbf;"><i><b>1</b></i></td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffffbf;"><i>1</i></td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#ffdf9f;">3</td>
 <th rowspan="2">172
 </th></tr>
 <tr>
-<td>23
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;"><i>4</i>
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfdfdf;"><i>2</i>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#dfffdf;"><b>8</b>
-</td>
-<td style="background:#dfffdf;">4
-</td></tr>
+<td>23</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;"><i>4</i></td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfdfdf;"><i>2</i></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#dfffdf;"><b>8</b></td>
+<td style="background:#dfffdf;">4</td></tr>
 <tr>
 <th rowspan="2">2
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
-</td>
-<td>14
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffdf9f;"><i>3</i>
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;"><i>17</i>
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Red_Bull_Racing" title="Red Bull Racing">Red Bull</a>-<a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></td>
+<td>14</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffdf9f;"><i>3</i></td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;"><i>17</i></td>
+<td style="background:#ffffbf;"><i>1</i></td>
+<td style="background:#dfdfdf;">2</td>
 <th rowspan="2">153.5
 </th></tr>
 <tr>
-<td>15
-</td>
-<td style="background:#cfcfff;">13<sup>†</sup>
-</td>
-<td style="background:#cfcfff;">15<sup>†</sup>
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;"><b>3</b>
-</td>
-<td style="background:#ffffbf;"><i><b>1</b></i>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;"><i>3</i>
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td></tr>
+<td>15</td>
+<td style="background:#cfcfff;">13<sup>†</sup></td>
+<td style="background:#cfcfff;">15<sup>†</sup></td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;"><b>3</b></td>
+<td style="background:#ffffbf;"><i><b>1</b></i></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;"><i>3</i></td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffffbf;"><i>1</i></td></tr>
 <tr>
 <th rowspan="2">3
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a>
-</td>
-<td>1
-</td>
-<td style="background:black; color:white;">DSQ
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">18
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfdfdf;"><b>2</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;"><b>12</b><sup>†</sup>
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#efcfff;"><b>Ret</b>
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/McLaren" title="McLaren">McLaren</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></td>
+<td>1</td>
+<td style="background:black; color:white;">DSQ</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">18</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfdfdf;"><b>2</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;"><b>12</b><sup>†</sup></td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#efcfff;"><b>Ret</b></td>
 <th rowspan="2">71
 </th></tr>
 <tr>
-<td>2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">11
-</td></tr>
+<td>2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">11</td></tr>
 <tr>
 <th rowspan="2">4
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
-</td>
-<td>3
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;"><i>4</i>
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:white;">DNS
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">16
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></td>
+<td>3</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;"><i>4</i></td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:white;">DNS</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">16</td>
 <th rowspan="2">70
 </th></tr>
 <tr>
-<td>4
-</td>
-<td style="background:#cfcfff;">15<sup>†</sup>
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#cfcfff;">12
-</td></tr>
+<td>4</td>
+<td style="background:#cfcfff;">15<sup>†</sup></td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#cfcfff;">12</td></tr>
 <tr>
 <th rowspan="2">5
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a>
-</td>
-<td>9
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;"><i><b>3</b></i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">7
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a></td>
+<td>9</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;"><i><b>3</b></i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">7</td>
 <th rowspan="2">59.5
 </th></tr>
 <tr>
-<td>10
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#cfcfff;"><i>14</i>
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:white;">DNS
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">6
-</td></tr>
+<td>10</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#cfcfff;"><i>14</i></td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:white;">DNS</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">6</td></tr>
 <tr>
 <th rowspan="2">6
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a>
-</td>
-<td>5
-</td>
-<td style="background:#cfcfff;">14<sup>†</sup>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">18
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#cfcfff;">10
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/BMW_in_Formula_One" title="BMW in Formula One">BMW Sauber</a></td>
+<td>5</td>
+<td style="background:#cfcfff;">14<sup>†</sup></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">18</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#cfcfff;">10</td>
 <th rowspan="2">36
 </th></tr>
 <tr>
-<td>6
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">19
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td></tr>
+<td>6</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">19</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td></tr>
 <tr>
 <th rowspan="2">7
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a>
-</td>
-<td>16
-</td>
-<td style="background:#dfffdf;"><i>6</i>
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Williams_Grand_Prix_Engineering" title="Williams Grand Prix Engineering">Williams</a>-<a href="/wiki/Toyota_Racing" class="mw-redirect" title="Toyota Racing">Toyota</a></td>
+<td>16</td>
+<td style="background:#dfffdf;"><i>6</i></td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
 <th rowspan="2">34.5
 </th></tr>
 <tr>
-<td>17
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">15<sup>†</sup>
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">18
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td></tr>
+<td>17</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">15<sup>†</sup></td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">18</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td></tr>
 <tr>
 <th rowspan="2">8
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a>
-</td>
-<td>7
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#dfffdf;"><i>7</i>
-</td>
-<td style="background:#efcfff;"><b>Ret</b>
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#ffdf9f;"><i>3</i>
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Renault_in_Formula_One" title="Renault in Formula One">Renault</a></td>
+<td>7</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#dfffdf;"><i>7</i></td>
+<td style="background:#efcfff;"><b>Ret</b></td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#ffdf9f;"><i>3</i></td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
 <th rowspan="2">26
 </th></tr>
 <tr>
-<td>8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">18
-</td></tr>
+<td>8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">18</td></tr>
 <tr>
 <th rowspan="2">9
 </th>
-<td rowspan="2" style="text-align:left;"><span class="nowrap"><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span>
-</td>
-<td>20
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#cfcfff;">17<sup>†</sup>
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfffdf;"><i>4</i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">17
-</td>
+<td rowspan="2" style="text-align:left;"><span class="nowrap"><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Force_India" title="Force India">Force India</a>-<a href="/wiki/Mercedes_AMG_High_Performance_Powertrains" title="Mercedes AMG High Performance Powertrains">Mercedes</a></span></td>
+<td>20</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#cfcfff;">17<sup>†</sup></td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfffdf;"><i>4</i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">17</td>
 <th rowspan="2">13
 </th></tr>
 <tr>
-<td>21
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">18<sup>†</sup>
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#dfdfdf;"><b>2</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">15
-</td></tr>
+<td>21</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">18<sup>†</sup></td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#dfdfdf;"><b>2</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">15</td></tr>
 <tr>
 <th rowspan="2">10
 </th>
-<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a>
-</td>
-<td>11
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">18
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#efcfff;">Ret
-</td>
+<td rowspan="2" style="text-align:left;"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Scuderia_Toro_Rosso" title="Scuderia Toro Rosso">Toro Rosso</a>-<a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">Ferrari</a></td>
+<td>11</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">18</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#efcfff;">Ret</td>
 <th rowspan="2">8
 </th></tr>
 <tr>
-<td>12
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#cfcfff;">16<sup>†</sup>
-</td>
-<td style="background:#dfffdf;">8
-</td>
-<td style="background:#cfcfff;">17
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#cfcfff;">18
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">13<sup>†</sup>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">7
-</td>
-<td style="background:#dfffdf;">8
-</td></tr>
+<td>12</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#cfcfff;">16<sup>†</sup></td>
+<td style="background:#dfffdf;">8</td>
+<td style="background:#cfcfff;">17</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#cfcfff;">18</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">13<sup>†</sup></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">7</td>
+<td style="background:#dfffdf;">8</td></tr>
 <tr valign="top">
 <th valign="middle"><abbr title="Position">Pos.</abbr>
 </th>

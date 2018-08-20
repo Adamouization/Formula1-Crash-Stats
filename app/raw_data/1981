@@ -40,1446 +40,783 @@
 <tr>
 <th>1
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet" title="Nelson Piquet">Nelson Piquet</a>
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#cfcfff;"><b>12</b>
-</td>
-<td style="background:#ffffbf;"><i><b>1</b></i>
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;"><b>Ret</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;"><b>5</b>
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td align="right"><b>50</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Nelson_Piquet" title="Nelson Piquet">Nelson Piquet</a></td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#cfcfff;"><b>12</b></td>
+<td style="background:#ffffbf;"><i><b>1</b></i></td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;"><b>Ret</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;"><b>5</b></td>
+<td style="background:#dfffdf;">5</td>
+<td align="right"><b>50</b></td></tr>
 <tr>
 <th>2
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffffbf;"><i><b>1</b></i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;"><i>3</i>
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;"><b>8</b>
-</td>
-<td align="right"><b>49</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">Carlos Reutemann</a></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffffbf;"><i><b>1</b></i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;"><i>3</i></td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;"><b>8</b></td>
+<td align="right"><b>49</b></td></tr>
 <tr>
 <th>3
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a>
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;"><i>2</i>
-</td>
-<td style="background:#cfcfff;"><i>7</i>
-</td>
-<td style="background:#cfcfff;">17†
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;"><i>11</i>
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffdf9f;"><i>3</i>
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td align="right"><b>46</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">Alan Jones</a></td>
+<td style="background:#ffffbf;"><i>1</i></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;"><i>2</i></td>
+<td style="background:#cfcfff;"><i>7</i></td>
+<td style="background:#cfcfff;">17†</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;"><i>11</i></td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffdf9f;"><i>3</i></td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffffbf;">1</td>
+<td align="right"><b>46</b></td></tr>
 <tr>
 <th>4
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfdfdf;"><b>2</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td align="right"><b>44</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">Jacques Laffite</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfdfdf;"><b>2</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#ffffbf;"><i>1</i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfffdf;">6</td>
+<td align="right"><b>44</b></td></tr>
 <tr>
 <th>5
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffffbf;"><i>1</i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;"><b>2</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffffbf;"><b>1</b>
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td align="right"><b>43</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Alain_Prost" title="Alain Prost">Alain Prost</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffffbf;"><i>1</i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;"><b>2</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffffbf;"><b>1</b></td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;">2</td>
+<td align="right"><b>43</b></td></tr>
 <tr>
 <th>6
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">John Watson</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfdfdf;"><i>2</i>
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td align="right"><b>27</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">John Watson</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfdfdf;"><i>2</i></td>
+<td style="background:#cfcfff;">7</td>
+<td align="right"><b>27</b></td></tr>
 <tr>
 <th>7
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Gilles_Villeneuve" title="Gilles Villeneuve">Gilles Villeneuve</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;"><i><b>7</b></i>
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#ffffbf;">1
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#000000; color:white">DSQ
-</td>
-<td align="right"><b>25</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Gilles_Villeneuve" title="Gilles Villeneuve">Gilles Villeneuve</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;"><i><b>7</b></i></td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#ffffbf;">1</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#000000; color:white">DSQ</td>
+<td align="right"><b>25</b></td></tr>
 <tr>
 <th>8
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Elio_de_Angelis" title="Elio de Angelis">Elio de Angelis</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td>WD
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#000000; color:white">DSQ
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>14</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Elio_de_Angelis" title="Elio de Angelis">Elio de Angelis</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">6</td>
+<td>WD</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#000000; color:white">DSQ</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>14</b></td></tr>
 <tr>
 <th>9
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ren%C3%A9_Arnoux" title="René Arnoux">René Arnoux</a>
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;"><b>4</b>
-</td>
-<td style="background:#cfcfff;"><i><b>9</b></i>
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#dfdfdf;"><b>2</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;"><b>Ret</b>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>11</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ren%C3%A9_Arnoux" title="René Arnoux">René Arnoux</a></td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;"><b>4</b></td>
+<td style="background:#cfcfff;"><i><b>9</b></i></td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#dfdfdf;"><b>2</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;"><b>Ret</b></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>11</b></td></tr>
 <tr>
 <th>10
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/H%C3%A9ctor_Rebaque" title="Héctor Rebaque">Héctor Rebaque</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>11</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/H%C3%A9ctor_Rebaque" title="Héctor Rebaque">Héctor Rebaque</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>11</b></td></tr>
 <tr>
 <th>11
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a>
-</td>
-<td style="background:#efcfff;"><b>Ret</b>
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#dfdfdf;">2
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td align="right"><b>10</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Riccardo_Patrese" title="Riccardo Patrese">Riccardo Patrese</a></td>
+<td style="background:#efcfff;"><b>Ret</b></td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#dfdfdf;">2</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td align="right"><b>10</b></td></tr>
 <tr>
 <th>12
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Eddie_Cheever" title="Eddie Cheever">Eddie Cheever</a>
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>10</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Eddie_Cheever" title="Eddie Cheever">Eddie Cheever</a></td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">NC</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">NC</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>10</b></td></tr>
 <tr>
 <th>13
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Didier_Pironi" title="Didier Pironi">Didier Pironi</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">5
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;"><i>9</i>
-</td>
-<td align="right"><b>9</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Didier_Pironi" title="Didier Pironi">Didier Pironi</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">5</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;"><i>9</i></td>
+<td align="right"><b>9</b></td></tr>
 <tr>
 <th>14
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td>WD
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td align="right"><b>8</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Nigel_Mansell" title="Nigel Mansell">Nigel Mansell</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#efcfff;">Ret</td>
+<td>WD</td>
+<td style="background:#ffdf9f;">3</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">4</td>
+<td align="right"><b>8</b></td></tr>
 <tr>
 <th>15
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Bruno_Giacomelli" title="Bruno Giacomelli">Bruno Giacomelli</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">15
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#ffdf9f;">3
-</td>
-<td align="right"><b>7</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Bruno_Giacomelli" title="Bruno Giacomelli">Bruno Giacomelli</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">NC</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">15</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#ffdf9f;">3</td>
+<td align="right"><b>7</b></td></tr>
 <tr>
 <th>16
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/Marc_Surer" title="Marc Surer">Marc Surer</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;"><i>4</i>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td>
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>4</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/Marc_Surer" title="Marc Surer">Marc Surer</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;"><i>4</i></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfffdf;">6</td>
+<td></td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>4</b></td></tr>
 <tr>
 <th>17
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a>
-</td>
-<td style="background:#dfffdf;">4
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>3</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Mario_Andretti" title="Mario Andretti">Mario Andretti</a></td>
+<td style="background:#dfffdf;">4</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>3</b></td></tr>
 <tr>
 <th>18
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#ffffff;">DNS
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td align="right"><b>1</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Andrea_de_Cesaris" title="Andrea de Cesaris">Andrea de Cesaris</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#ffffff;">DNS</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td align="right"><b>1</b></td></tr>
 <tr>
 <th>19
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Patrick_Tambay" title="Patrick Tambay">Patrick Tambay</a>
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>1</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Patrick_Tambay" title="Patrick Tambay">Patrick Tambay</a></td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>1</b></td></tr>
 <tr>
 <th>20
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Slim_Borgudd" title="Slim Borgudd">Slim Borgudd</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNPQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>1</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Slim_Borgudd" title="Slim Borgudd">Slim Borgudd</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNPQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>1</b></td></tr>
 <tr>
 <th>21
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Chile" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Eliseo_Salazar" title="Eliseo Salazar">Eliseo Salazar</a>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNPQ
-</td>
-<td style="background:#cfcfff;">14
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#dfffdf;">6
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td align="right"><b>1</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Chile" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Eliseo_Salazar" title="Eliseo Salazar">Eliseo Salazar</a></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNPQ</td>
+<td style="background:#cfcfff;">14</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">NC</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#dfffdf;">6</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">NC</td>
+<td align="right"><b>1</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jarier" title="Jean-Pierre Jarier">Jean-Pierre Jarier</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jarier" title="Jean-Pierre Jarier">Jean-Pierre Jarier</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Siegfried_Stohr" title="Siegfried Stohr">Siegfried Stohr</a>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Siegfried_Stohr" title="Siegfried Stohr">Siegfried Stohr</a></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derek_Daly" title="Derek Daly">Derek Daly</a>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNPQ
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">8
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derek_Daly" title="Derek Daly">Derek Daly</a></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNPQ</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">8</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Chico_Serra" title="Chico Serra">Chico Serra</a>
-</td>
-<td style="background:#cfcfff;">7
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#ffffff;">DNS
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Chico_Serra" title="Chico Serra">Chico Serra</a></td>
+<td style="background:#cfcfff;">7</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#ffffff;">DNS</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Keke_Rosberg" title="Keke Rosberg">Keke Rosberg</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Keke_Rosberg" title="Keke Rosberg">Keke Rosberg</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">10</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">16
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">9
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#cfcfff;">11
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Michele_Alboreto" title="Michele Alboreto">Michele Alboreto</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">16</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">9</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#cfcfff;">11</td>
+<td style="background:#cfcfff;">13</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brian_Henton" title="Brian Henton">Brian Henton</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNPQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">10
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Brian_Henton" title="Brian Henton">Brian Henton</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNPQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">10</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jan_Lammers" title="Jan Lammers">Jan Lammers</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">12
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jan_Lammers" title="Jan Lammers">Jan Lammers</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">12</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Ricardo_Zunino" title="Ricardo Zunino">Ricardo Zunino</a>
-</td>
-<td>
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Ricardo_Zunino" title="Ricardo Zunino">Ricardo Zunino</a></td>
+<td></td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#cfcfff;">13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Piercarlo_Ghinzani" title="Piercarlo Ghinzani">Piercarlo Ghinzani</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#cfcfff;">13
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Piercarlo_Ghinzani" title="Piercarlo Ghinzani">Piercarlo Ghinzani</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#cfcfff;">13</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jabouille" title="Jean-Pierre Jabouille">Jean-Pierre Jabouille</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#cfcfff;">NC
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jean-Pierre_Jabouille" title="Jean-Pierre Jabouille">Jean-Pierre Jabouille</a></td>
+<td></td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#cfcfff;">NC</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Beppe_Gabbiani" title="Beppe Gabbiani">Beppe Gabbiani</a>
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Beppe_Gabbiani" title="Beppe Gabbiani">Beppe Gabbiani</a></td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#efcfff;">Ret</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derek_Warwick" title="Derek Warwick">Derek Warwick</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNPQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derek_Warwick" title="Derek Warwick">Derek Warwick</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNPQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Miguel_Angel_Guerra" class="mw-redirect" title="Miguel Angel Guerra">Miguel Angel Guerra</a>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#efcfff;">Ret
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> <a href="/wiki/Miguel_Angel_Guerra" class="mw-redirect" title="Miguel Angel Guerra">Miguel Angel Guerra</a></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#efcfff;">Ret</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Jacques_Villeneuve_(elder)" class="mw-redirect" title="Jacques Villeneuve (elder)">Jacques Villeneuve, Sr.</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Jacques_Villeneuve_(elder)" class="mw-redirect" title="Jacques Villeneuve (elder)">Jacques Villeneuve, Sr.</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Kevin_Cogan" title="Kevin Cogan">Kevin Cogan</a>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Kevin_Cogan" title="Kevin Cogan">Kevin Cogan</a></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giorgio_Francia" title="Giorgio Francia">Giorgio Francia</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td style="background:#ffcfcf;">DNQ
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Giorgio_Francia" title="Giorgio Francia">Giorgio Francia</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background:#ffcfcf;">DNQ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr>
 <th>—
 </th>
-<td align="left"><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Ricardo_Londo%C3%B1o" title="Ricardo Londoño">Ricardo Londoño</a>
-</td>
-<td>
-</td>
-<td>DNP
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td align="right"><b>0</b>
-</td></tr>
+<td align="left"><span class="flagicon"><a href="/wiki/Colombia" title="Colombia"><img alt="Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Ricardo_Londo%C3%B1o" title="Ricardo Londoño">Ricardo Londoño</a></td>
+<td></td>
+<td>DNP</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td align="right"><b>0</b></td></tr>
 <tr valign="top">
 <th valign="middle">Pos
 </th>

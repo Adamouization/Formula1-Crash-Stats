@@ -164,24 +164,5 @@ class FormulaOneDNFParser(HTMLParser):
             'total_race_entries': self.get_total_entries()
         }
 
-    def print_dnf_stats(self):
-        print("---------")
-        print("Retirements: {}".format(self.get_ret()))
-        print("NC: {}".format(self.get_nc()))
-        print("DNQ: {}".format(self.get_dnq()))
-        print("DNPQ: {}".format(self.get_dnpq()))
-        print("DSQ: {}".format(self.get_dsq()))
-        print("DNS: {}".format(self.get_dns()))
-        print("DNP: {}".format(self.get_dnp()))
-        print("Exclusions: {}".format(self.get_ex()))
-        print("DNA: {}".format(self.get_dna()))
-        print("WD: {}".format(self.get_wd()))
-        print("Total DNF: {}".format(self.get_total_dnf()))
-        print("---------")
-        print("Total Classified finishes = {}".format(self.get_classified_finish()))
-        print("Total race entries = {}".format(self.get_total_entries()))
-        print("\n---------------------------------------------------------------------------")
-        print("---------------------------------------------------------------------------\n")
-
     def error(self, message):
         pass

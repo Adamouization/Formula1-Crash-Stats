@@ -1,5 +1,8 @@
 
-[![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats)
+[![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats) 
+[![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues)
+ [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE)
+
 
 Formula1-Crash-Stats
 ====================

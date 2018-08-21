@@ -65,7 +65,7 @@ class FormulaOneDNFParser(HTMLParser):
             self.cur_th_data = data
 
         if self.is_td_tag and self.cur_th_data not in ['Pos.', 'Driver', 'Points']:  # exclude these columns
-            if data == 'Ret' and any(self.cur_td_color in c for c in ['#efcfff', '#EFCFFF']):
+            if data == 'Ret' and self.cur_td_color.lower() in '#efcfff':
                 self.ret += 1
             elif data == 'NC':
                 self.nc += 1
@@ -75,7 +75,7 @@ class FormulaOneDNFParser(HTMLParser):
                 self.dnpq += 1
             elif data == 'DSQ':
                 self.dsq += 1
-            elif data == 'DNS' and any(self.cur_td_color in c for c in ['#ffffff', '#FFFFFF']):
+            elif data == 'DNS' and self.cur_td_color.lower() in '#ffffff':
                 self.dns += 1
             elif data == 'DNP':
                 self.dnp += 1

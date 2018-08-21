@@ -1,6 +1,94 @@
 {% extends "base.html" %}
 
 {% block content %}
+
+<div id="main_chart"></div>
+<script>
+    Highcharts.chart('main_chart', {
+
+        credits: false,
+        title: {
+            text: 'Formula 1 Crash Stats 1950-2017'
+        },
+        yAxis: {
+            title: {
+                text: 'Occurrences'
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle'
+        },
+        responsive: {
+            rules: [
+                {
+                    condition: {
+                        maxWidth: 500
+                    },
+                    chartOptions: {
+                        legend: {
+                            layout: 'horizontal',
+                            align: 'center',
+                            verticalAlign: 'bottom'
+                        }
+                    }
+                }
+            ]
+        },
+        series: [
+            {
+                name: 'Ret',
+                data: {{ ret_series }}
+            },
+            {
+                name: 'NC',
+                data: {{ nc_series }}
+            },
+            {
+                name: 'DNQ',
+                data: {{ dnq_series }}
+            },
+            {
+                name: 'DNPQ',
+                data: {{ dnpq_series }}
+            },
+            {
+                name: 'DSQ',
+                data: {{ dsq_series }}
+            },
+            {
+                name: 'DNS',
+                data: {{ dns_series }}
+            },
+            {
+                name: 'DNP',
+                data: {{ dnp_series }}
+            },
+            {
+                name: 'Ex',
+                data: {{ ex_series }}
+            },
+            {
+                name: 'DNA',
+                data: {{ dna_series }}
+            },
+            {
+                name: 'WD',
+                data: {{ wd_series }}
+            },
+        ],
+        xAxis: {
+            categories: {{ categories|safe }}
+        }
+
+    });
+</script>
+
+<br><br>
+<hr>
+<br><br>
+
 <table class="darkTable">
     <tr>
         <th>Season</th>
@@ -18,7 +106,7 @@
         <th>Total Classified finishes</th>
         <th>Total race entries</th>
     </tr>
-    {% for resp in data %}
+    {% for resp in raw_data %}
     <tr>
         <td>{{ resp.season }}</td>
         <td>{{ resp.ret }}</td>

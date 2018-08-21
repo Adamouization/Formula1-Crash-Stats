@@ -91,6 +91,9 @@ class FormulaOneDNFParser(HTMLParser):
             except ValueError:
                 pass
 
+    def error(self, message):
+        pass
+
     def get_ret(self):
         """Return the number of retirements."""
         return self.ret
@@ -163,6 +166,3 @@ class FormulaOneDNFParser(HTMLParser):
             'total_classified_finish': self.get_classified_finish(),
             'total_race_entries': self.get_total_entries()
         }
-
-    def error(self, message):
-        pass

@@ -36,6 +36,9 @@ out/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
+# Project defaults
+.idea/inspectionProfiles/Project_Default.xml
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 

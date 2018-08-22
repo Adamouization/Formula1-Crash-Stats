@@ -83,60 +83,75 @@
     });
 </script>
 
-<br><br>
 <hr>
-<br><br>
 
-<table class="darkTable">
-    <tr>
-        <th>Season</th>
-        <th>Retirements</th>
-        <th>NC</th>
-        <th>DNQ</th>
-        <th>DNPQ</th>
-        <th>DSQ</th>
-        <th>DNS</th>
-        <th>DNP</th>
-        <th>Exclusions</th>
-        <th>DNA</th>
-        <th>WD</th>
-        <th>Total DNF</th>
-        <th>Total Classified finishes</th>
-        <th>Total race entries</th>
-    </tr>
-    {% for resp in raw_data %}
-    <tr>
-        <td>{{ resp.season }}</td>
-        <td>{{ resp.ret }}</td>
-        <td>{{ resp.nc }}</td>
-        <td>{{ resp.dnq }}</td>
-        <td>{{ resp.dnpq }}</td>
-        <td>{{ resp.dsq }}</td>
-        <td>{{ resp.dns }}</td>
-        <td>{{ resp.dnp }}</td>
-        <td>{{ resp.ex }}</td>
-        <td>{{ resp.dna }}</td>
-        <td>{{ resp.wd }}</td>
-        <td>{{ resp.total_dnf }}</td>
-        <td>{{ resp.total_classified_finish }}</td>
-        <td>{{ resp.total_race_entries }}</td>
-    </tr>
-    {% endfor %}
-    <tr>
-        <th>Season</th>
-        <th>Retirements</th>
-        <th>NC</th>
-        <th>DNQ</th>
-        <th>DNPQ</th>
-        <th>DSQ</th>
-        <th>DNS</th>
-        <th>DNP</th>
-        <th>Exclusions</th>
-        <th>DNA</th>
-        <th>WD</th>
-        <th>Total DNF</th>
-        <th>Total Classified finishes</th>
-        <th>Total race entries</th>
-    </tr>
+<table id="raw_data_table" class="stripe hover row-border order-column cell-border">
+    <thead>
+        <tr>
+            <th>Season</th>
+            <th>Retirements</th>
+            <th>NC</th>
+            <th>DNQ</th>
+            <th>DNPQ</th>
+            <th>DSQ</th>
+            <th>DNS</th>
+            <th>DNP</th>
+            <th>Exclusions</th>
+            <th>DNA</th>
+            <th>WD</th>
+            <th>Total DNF</th>
+            <th>Total Classified finishes</th>
+            <th>Total race entries</th>
+        </tr>
+    </thead>
+    <tbody style="text-align: center"
+        {% for resp in raw_data %}
+        <tr>
+            <td>{{ resp.season }}</td>
+            <td>{{ resp.ret }}</td>
+            <td>{{ resp.nc }}</td>
+            <td>{{ resp.dnq }}</td>
+            <td>{{ resp.dnpq }}</td>
+            <td>{{ resp.dsq }}</td>
+            <td>{{ resp.dns }}</td>
+            <td>{{ resp.dnp }}</td>
+            <td>{{ resp.ex }}</td>
+            <td>{{ resp.dna }}</td>
+            <td>{{ resp.wd }}</td>
+            <td style="font-weight: bold">{{ resp.total_dnf }}</td>
+            <td>{{ resp.total_classified_finish }}</td>
+            <td>{{ resp.total_race_entries }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Season</th>
+            <th>Retirements</th>
+            <th>NC</th>
+            <th>DNQ</th>
+            <th>DNPQ</th>
+            <th>DSQ</th>
+            <th>DNS</th>
+            <th>DNP</th>
+            <th>Exclusions</th>
+            <th>DNA</th>
+            <th>WD</th>
+            <th>Total DNF</th>
+            <th>Total Classified finishes</th>
+            <th>Total race entries</th>
+        </tr>
+    </tfoot>
 </table>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#raw_data_table').DataTable({
+            "order": [[0, "desc"]],
+            "iDisplayLength": 15,
+             "lengthMenu": [[10, 15, 25, 50, -1], [10, 15, 25, 50, "All"]]
+        });
+    });
+</script>
+
 {% endblock %}

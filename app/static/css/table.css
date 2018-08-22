@@ -1,0 +1,11 @@
+.table-body {
+    text-align: center;
+}
+
+.season-cell {
+    font-style: italic;
+}
+
+.total-dnf-cell {
+    font-weight: bold;
+}

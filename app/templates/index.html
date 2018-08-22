@@ -25,10 +25,10 @@
             <th>Total race entries</th>
         </tr>
     </thead>
-    <tbody style="text-align: center">
+    <tbody class="table-body">
         {% for resp in raw_data %}
         <tr>
-            <td style="font-style: italic;">{{ resp.season }}</td>
+            <td class="season-cell">{{ resp.season }}</td>
             <td>{{ resp.ret }}</td>
             <td>{{ resp.nc }}</td>
             <td>{{ resp.dnq }}</td>
@@ -39,7 +39,7 @@
             <td>{{ resp.ex }}</td>
             <td>{{ resp.dna }}</td>
             <td>{{ resp.wd }}</td>
-            <td style="font-weight: bold">{{ resp.total_dnf }}</td>
+            <td class="total-dnf-cell">{{ resp.total_dnf }}</td>
             <td>{{ resp.total_classified_finish }}</td>
             <td>{{ resp.total_race_entries }}</td>
         </tr>

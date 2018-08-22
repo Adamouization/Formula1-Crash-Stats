@@ -5,20 +5,18 @@
 <div id="main_chart"></div>
 <script>
     Highcharts.chart('main_chart', {
-
         credits: false,
         title: {
-            text: 'Formula 1 Crash Stats 1950-2017'
+            text: 'Formula 1 DNFs 1950-2017'
+        },
+        chart: {
+            type: 'line',
+            zoomType: 'x'
         },
         yAxis: {
             title: {
                 text: 'Occurrences'
             }
-        },
-        legend: {
-            layout: 'vertical',
-            align: 'right',
-            verticalAlign: 'middle'
         },
         responsive: {
             rules: [

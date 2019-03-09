@@ -18,7 +18,6 @@
             <th>DNS</th>
             <th>DNP</th>
             <th>Exclusions</th>
-            <th>DNA</th>
             <th>WD</th>
             <th>Total DNF</th>
             <th>Total Classified finishes</th>
@@ -37,7 +36,6 @@
             <td>{{ resp.dns }}</td>
             <td>{{ resp.dnp }}</td>
             <td>{{ resp.ex }}</td>
-            <td>{{ resp.dna }}</td>
             <td>{{ resp.wd }}</td>
             <td class="total-dnf-cell">{{ resp.total_dnf }}</td>
             <td>{{ resp.total_classified_finish }}</td>
@@ -56,7 +54,6 @@
             <th>DNS</th>
             <th>DNP</th>
             <th>Exclusions</th>
-            <th>DNA</th>
             <th>WD</th>
             <th>Total DNF</th>
             <th>Total Classified finishes</th>
@@ -128,10 +125,6 @@
             {
                 name: 'Ex',
                 data: {{ ex_series }}
-            },
-            {
-                name: 'DNA',
-                data: {{ dna_series }}
             },
             {
                 name: 'WD',

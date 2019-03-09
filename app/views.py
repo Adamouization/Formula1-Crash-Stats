@@ -19,7 +19,6 @@ def index():
     dns_series = list()
     dnp_series = list()
     ex_series = list()
-    dna_series = list()
     wd_series = list()
     total_dnf_series = list()
     total_classified_finish_series = list()
@@ -46,7 +45,6 @@ def index():
             dns_series.append(parser.get_dns())
             dnp_series.append(parser.get_dnp())
             ex_series.append(parser.get_ex())
-            dna_series.append(parser.get_dna())
             wd_series.append(parser.get_wd())
             total_dnf_series.append(parser.get_total_dnf())
             total_classified_finish_series.append(parser.get_classified_finish())
@@ -66,7 +64,6 @@ def index():
         dns_series=dns_series,
         dnp_series=dnp_series,
         ex_series=ex_series,
-        dna_series=dna_series,
         wd_series=wd_series,
         total_dnf_series=total_dnf_series,
         total_classified_finish_series=total_classified_finish_series,

@@ -16,7 +16,6 @@ class FormulaOneDNFParser(HTMLParser):
         self.dns = 0        # Did Not Start
         self.dnp = 0        # Did Not Practice
         self.ex = 0         # Excluded
-        self.dna = 0        # Dit Not Arrive
         self.wd = 0         # withdrawn
         self.finish = 0     # Classified Finish
         self.is_td_tag = False
@@ -81,8 +80,6 @@ class FormulaOneDNFParser(HTMLParser):
                 self.dnp += 1
             elif data == 'EX':
                 self.ex += 1
-            elif data == 'DNA':
-                self.dna += 1
             elif data == 'WD':
                 self.wd += 1
             try:
@@ -126,10 +123,6 @@ class FormulaOneDNFParser(HTMLParser):
         """Return the number of exclusions."""
         return self.ex
 
-    def get_dna(self):
-        """Return the number of DNA (Did Not Arrive)."""
-        return self.dna
-
     def get_wd(self):
         """Return the number of withdraws."""
         return self.wd
@@ -140,7 +133,7 @@ class FormulaOneDNFParser(HTMLParser):
 
     def get_total_dnf(self):
         """Return the sum of all possible DNFs."""
-        return self.ret + self.nc + self.dnq + self.dnpq + self.dsq + self.dns + self.dnp + self.ex + self.dna + self.wd
+        return self.ret + self.nc + self.dnq + self.dnpq + self.dsq + self.dns + self.dnp + self.ex + self.wd
 
     def get_total_entries(self):
         """Return the total number of race entries (classified finishes + any DNF)."""
@@ -160,7 +153,6 @@ class FormulaOneDNFParser(HTMLParser):
             'dns': self.get_dns(),
             'dnp': self.get_dnp(),
             'ex': self.get_ex(),
-            'dna': self.get_dna(),
             'wd': self.get_wd(),
             'total_dnf': self.get_total_dnf(),
             'total_classified_finish': self.get_classified_finish(),

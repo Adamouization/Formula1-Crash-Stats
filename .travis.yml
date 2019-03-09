@@ -5,10 +5,6 @@ install: pip install -r requirements.txt
 script: nosetests -v tests/*.py
 matrix:
   include:
-    - python: "2.7"
-    - python: "3.4"
-    - python: "3.5"
-    - python: "3.6"
     - python: "3.7"
       dist: xenial
       sudo: true

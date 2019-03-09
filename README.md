@@ -4,7 +4,7 @@
 
 The software backend is written in Flask using Python 3.7 and hosted on Heroku using Gunicorn.
 
-You can visit the website live here: [f1-crash-stats.herokuapp.com](https://f1-crash-stats.herokuapp.com/)
+You can visit the website live here: [f1-dnf-stats.herokuapp.com](https://f1-dnf-stats.herokuapp.com/)
 
 #### Screenshot
 

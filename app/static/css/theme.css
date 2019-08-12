@@ -21,7 +21,7 @@ body {
     color: #000000;
 }
 
-h1, p, a {
+h1, h2, p, a, li {
     color: #fff;
     outline: none;
 }

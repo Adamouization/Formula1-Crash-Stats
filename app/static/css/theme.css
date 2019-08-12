@@ -1,0 +1,78 @@
+/*
+ * General style for the website
+ * Author: Adam Jaamour
+ * © 2019
+ */
+
+html {
+    background-image: url(../background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font: 13px Courier New, Helvetica, sans-serif;
+    color: #000000;
+}
+
+h1, p, a {
+    text-decoration: none;
+    color: #fff;
+    outline: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Center the body and apply a max width */
+.content {
+    max-width: 1366px;
+    margin: auto;
+}
+
+/* HR line styling. */
+hr.shadow {
+    height: 30px;
+    border-style: solid;
+    border-color: #8c8b8b;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+
+hr.shadow:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: #8c8b8b;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+/* Simple footer style */
+.content {
+    min-height: calc(100vh - 95px);
+}
+
+.footer {
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    align-items: center;
+    vertical-align: middle;
+    display: flex;
+    padding-left: 20px;
+    margin-top: 25px;
+}
+.footer-copyright {
+    margin-left: auto;
+    margin-right: 20px;
+}

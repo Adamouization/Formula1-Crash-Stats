@@ -1,3 +1,9 @@
+/*
+ * Style for the JQuery DataTable
+ * Author: Adam Jaamour
+ * © 2019
+ */
+
 .table-body {
     text-align: center;
 }
@@ -8,4 +14,28 @@
 
 .total-dnf-cell {
     font-weight: bold;
+}
+
+#raw_data_table thead, tfoot {
+    color: #ffffff;
+}
+
+#raw_data_table_length {
+    color: #ffffff;
+}
+
+#raw_data_table_filter {
+    color: #ffffff;
+}
+
+#raw_data_table_info {
+    color: #ffffff;
+}
+
+#raw_data_table_paginate .paginate_button{
+    color: #ffffff;!important;
+}
+
+#raw_data_table_previous {
+    color: #ffffff;
 }

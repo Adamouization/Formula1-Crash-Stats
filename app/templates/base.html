@@ -3,7 +3,7 @@
     <title>F1 Crash Stats</title>
 
     <!-- Favicon -->
-    <link rel='shortcut icon' href='../static/favicon.ico' />
+    <link rel='shortcut icon' href='../static/favicon.ico'/>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116916521-3"></script>
@@ -11,6 +11,7 @@
 
     <!--Stylesheets-->
     <link rel="stylesheet" type="text/css" href="../static/css/table.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/theme.css">
 
     <!--JS scripts-->
     <script src="../static/js/table.js"></script>
@@ -25,22 +26,38 @@
 
     <!--JQuery Datatables-->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8"
+            src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
 </head>
 <body>
 
-<h1>Welcome to Formula 1 Crash Stats</h1>
-<p><i>This website parses the HTML source code of each Formula 1 season's Wikipedia page to gather data about DNFs
-    throughout the seasons.</i></p>
-<p><i>Please note that this website is still being developed. I am still working on making the parser more reliable and
-    organizing the data in a more meaningful charts before working on the website's design. You can follow the progress
-    here <a href="https://github.com/Adamouization/Formula1-Crash-Stats">https://github.com/Adamouization/Formula1-Crash-Stats</a></i>
-</p>
+<div class="content">
 
-<hr>
+    <h1><u>Welcome to Formula 1 DNF Stats</u></h1>
+    <p><i>This website parses the HTML source code of each Formula 1 season's Wikipedia page to gather data about DNFs
+        throughout the seasons.</i></p>
+    <p><i>Please note that this website is still being developed. I am still working on making the parser more reliable
+        and
+        organizing the data in a more meaningful charts before working on the website's design. You can follow the
+        progress
+        here <a href="https://github.com/Adamouization/Formula1-Crash-Stats">https://github.com/Adamouization/Formula1-Crash-Stats</a></i>
+    </p>
 
-{% block content %}{% endblock %}
+    <br>
+    <hr class="shadow">
+    <br>
+
+    {% block content %}{% endblock %}
+
+    <footer class="footer">
+        <p>
+            Built with Python and <span class="love">❤</span> by <a href="http://www.adam.jaamour.com/">Adam Jaamour</a>
+        </p>
+        <p class="footer-copyright">Copyright &copy; 2019</p>
+    </footer>
+
+</div>
 
 </body>
 </html>

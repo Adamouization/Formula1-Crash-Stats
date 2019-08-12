@@ -30,6 +30,7 @@
 
 #raw_data_table_info {
     color: #ffffff;
+    font-style: italic;
 }
 
 #raw_data_table_paginate .paginate_button{

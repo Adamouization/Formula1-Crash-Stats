@@ -1,8 +1,8 @@
-# Formula1-Crash-Stats [![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE)
+# Formula1-DNF-Stats [![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE)
 
-**Formula1-Crash-Stats** is a software that displays Formula 1 DNF statistics by retrieving and parsing data from the source HTML behind each Formula 1 season Wikipedia page.
+**Formula1-DNF-Stats** is a web application that parses the HTML source code of each Wikipedia page for every Formula 1 season in order to gather data about the DNFs that occurred throughout the seasons.
 
-The software backend is written in Flask using Python 3.7 and hosted on Heroku using Gunicorn.
+The app is written in Flask using Python 3.7 and hosted on Heroku using Gunicorn.
 
 You can visit the website live here: [f1-dnf-stats.herokuapp.com](https://f1-dnf-stats.herokuapp.com/)
 
@@ -36,6 +36,10 @@ python run.py
 The app will now be running (`Ctrl + C` to stop it) and you can visit it at: `127.0.0.1:4000`
 
 To run tests: `nosetests -v`
+
+## Releases
+
+*todo*
 
 ## TODO
 * see [TODO Project Board (Initial Release)](https://github.com/Adamouization/Formula1-Crash-Stats/projects/1)

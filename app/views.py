@@ -69,3 +69,8 @@ def index():
         total_classified_finish_series=total_classified_finish_series,
         total_race_entries_series=total_race_entries_series
     )
+
+
+@app.route('/help')
+def help_page():
+    return render_template('help.html')

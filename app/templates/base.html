@@ -44,57 +44,10 @@
 <body>
 
 <div class="content">
-    <div class="welcome-text">
-        <h1 class="title">Formula 1 DNF Stats</h1>
-        <p>
-            This website parses the HTML source code of each Wikipedia page for every Formula 1 season in order to
-            gather data about the DNFs that occurred throughout the seasons.
-        </p>
-        <p>Please note that this website is still being developed as I am working on collecting more data through the
-            parser and exploring new methods to display it in more meaningful charts and tables. For a better
-            experience, please visit the website on a desktop device rather than a mobile device.
-        </p>
-        <p>
-            If you have any suggestions or critiques, please post them <a target="_blank"
-                                                                          href="https://github.com/Adamouization/Formula1-Crash-Stats/issues/new">here</a>.
-        </p>
-    </div>
 
-    <br>
-    <hr class="shadow">
-    <br>
+    <h1 class="title"><a href={{ url_for('index') }}>Formula 1 DNF Stats</a></h1>
 
     {% block content %}{% endblock %}
-
-    <br>
-    <hr class="shadow">
-
-    <div>
-        <h1>Guide to use the website</h1>
-        <h2>Chart</h2>
-        <ul>
-            <li>Select/deselect series by clicking on the corresponding one</li>
-            <li>Click & drag over the chart to zoom into a section</li>
-        </ul>
-        <h2>Table</h2>
-        <ul>
-            <li>Click column headers to reorder data in ascending/descending orders</li>
-            <li>Show more/less entries using the dropdown in the upper-left corner</li>
-            <li>Search for data in upper-right text box</li>
-        </ul>
-        <h2>Dictionary</h2>
-        <ul>
-            <li>Ret - Retirements</li>
-            <li>NC - Not Classified</li>
-            <li>DNQ - Did Not Qualify</li>
-            <li>DNPQ - Did Not Pre Qualify</li>
-            <li>DSQ - Disqualified</li>
-            <li>DNS - Did Not Start</li>
-            <li>DNP - Did Not Practice</li>
-            <li>Ex - Excluded</li>
-            <li>WD - Withdrawn</li>
-        </ul>
-    </div>
 
     <footer class="footer">
         <p>

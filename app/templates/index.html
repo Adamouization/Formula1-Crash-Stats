@@ -2,6 +2,30 @@
 
 {% block content %}
 
+<div class="welcome-text">
+    <p>
+        This website parses the HTML source code of each Wikipedia page for every Formula 1 season in order to
+        gather data about the DNFs that occurred throughout the seasons.
+    </p>
+    <p>
+        Please note that this website is still being developed as I am working on collecting more data through the
+        parser and exploring new methods to display it in more meaningful charts and tables. For a better
+        experience, please visit the website on a desktop device rather than a mobile device.
+    </p>
+    <p>
+        Visit the <a href="{{ url_for('help_page') }}">Help</a> page for a guide on how to use the website's tools and
+        for the acronyms used.
+    </p>
+    <p>
+        If you have any suggestions or critiques, please post them <a target="_blank"
+                                                                      href="https://github.com/Adamouization/Formula1-Crash-Stats/issues/new">here</a>.
+    </p>
+</div>
+
+<br>
+<hr class="shadow">
+<br>
+
 <div id="main_chart"></div>
 
 <br><hr class="shadow"><br>

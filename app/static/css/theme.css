@@ -30,12 +30,17 @@ a:hover {
     text-decoration: underline;
     color: #0000EE;;
 }
-a:visited {
-    color: #551A8B;
-}
 
+/* Title used across all views */
 .title {
     font-size: 40px;
+    text-align: center;
+}
+.title a {
+    text-decoration: none;
+}
+.title a:hover {
+    color: #ffffff;;
 }
 
 /* Center the body and apply a max width */

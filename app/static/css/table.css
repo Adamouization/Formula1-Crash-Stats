@@ -16,6 +16,8 @@
     font-weight: bold;
 }
 
+/* Overwrite original datatable CSS with white colours to view text/buttons with dark background */
+
 #raw_data_table thead, tfoot {
     color: #ffffff;
 }
@@ -33,10 +35,6 @@
     font-style: italic;
 }
 
-#raw_data_table_paginate .paginate_button{
-    color: #ffffff;!important;
-}
-
-#raw_data_table_previous {
-    color: #ffffff;
+a.paginate_button {
+    background-color: white;
 }

@@ -40,6 +40,9 @@
     <script type="text/javascript" charset="utf8"
             src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
+    <!-- GitHub buttons -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
 </head>
 <body>
 
@@ -51,9 +54,11 @@
 
     <footer class="footer">
         <p>
-            Built with Python and <span class="love">❤</span> by <a href="http://www.adam.jaamour.com/">Adam Jaamour</a>
+            <a href={{ url_for('index') }}>Home</a>·
+            <a href={{ url_for('help_page') }}>Help</a>·
+            <a href={{ url_for('about_page') }}>About</a>
         </p>
-        <p class="footer-copyright">&copy; Copyright Adam Jaamour 2019</p>
+        <p class="footer-copyright">Built with Python and <span class="love">❤</span> by <a href="http://www.adam.jaamour.com/">Adam Jaamour</a> &copy; 2019</p>
     </footer>
 
 </div>

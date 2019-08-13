@@ -74,3 +74,8 @@ def index():
 @app.route('/help')
 def help_page():
     return render_template('help.html')
+
+
+@app.route('/about')
+def about_page():
+    return render_template('about.html')

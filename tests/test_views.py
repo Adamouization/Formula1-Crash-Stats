@@ -25,5 +25,11 @@ class IndexViewTestCase(unittest.TestCase):
         self.assertEqual(response.default_mimetype, 'text/html')
 
 
+    def test_about_url(self):
+        response = self.app.get('/about')
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.default_mimetype, 'text/html')
+
+
 if __name__ == '__main__':
     unittest.main()

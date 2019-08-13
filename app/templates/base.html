@@ -48,17 +48,24 @@
 
 <div class="content">
 
-    <h1 class="title"><a href={{ url_for('index') }}>Formula 1 DNF Stats</a></h1>
+    <div class="topnav">
+        <h1 class="topnav-title"><a href={{ url_for('index') }}>Formula 1 DNF Stats</a></h1>
+        <div class="topnav-right">
+            <a href="{{ url_for('help_page') }}">Help</a>
+            <a href="{{ url_for('about_page') }}">About</a>
+        </div>
+    </div>
 
     {% block content %}{% endblock %}
 
     <footer class="footer">
         <p>
-            <a href={{ url_for('index') }}>Home</a>·
-            <a href={{ url_for('help_page') }}>Help</a>·
+            <a href={{ url_for('index') }}>Home</a> ·
+            <a href={{ url_for('help_page') }}>Help</a> ·
             <a href={{ url_for('about_page') }}>About</a>
         </p>
-        <p class="footer-copyright">Built with Python and <span class="love">❤</span> by <a href="http://www.adam.jaamour.com/">Adam Jaamour</a> &copy; 2019</p>
+        <p class="footer-copyright">Built with Python and <span class="love">❤</span> by <a
+                href="http://www.adam.jaamour.com/">Adam Jaamour</a> &copy; 2019</p>
     </footer>
 
 </div>

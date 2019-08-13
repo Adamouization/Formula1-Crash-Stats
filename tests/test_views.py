@@ -19,6 +19,11 @@ class IndexViewTestCase(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertEqual(response.default_mimetype, 'text/html')
 
+    def test_help_url(self):
+        response = self.app.get('/help')
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.default_mimetype, 'text/html')
+
 
 if __name__ == '__main__':
     unittest.main()

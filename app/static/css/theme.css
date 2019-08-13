@@ -4,7 +4,11 @@
  * © 2019
  */
 
-html {
+html, body {
+    height: 100%;
+    margin: 0;
+    font: 17px Courier New, Helvetica, sans-serif;
+    color: #000000;
     background-image: url(../img/background.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -13,12 +17,6 @@ html {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
-}
-
-body {
-    font: 17px Courier New, Helvetica, sans-serif;
-    color: #000000;
 }
 
 h1, h2, p, a, li {
@@ -45,23 +43,27 @@ hr.shadow {
 }
 
 /* Simple footer style */
-.content {
-    min-height: calc(100vh - 95px);
-    padding-top: 5px;
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -90px; /* Equal to height of footer but also accounting for potential margin-bottom of last child */
+}
+
+.push {
+    height: 90px; /* 70 footer + 20 margin-bottom */
 }
 
 .footer {
-    height: 50px;
+    height: 70px;
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
     align-items: center;
     vertical-align: middle;
     display: flex;
     padding-left: 20px;
-    margin-top: 25px;
+    margin-bottom: 20px;
 }
 
-.footer-copyright {
+.footer-right {
     margin-left: auto;
     margin-right: 20px;
 }

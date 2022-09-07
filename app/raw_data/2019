@@ -64,6 +64,7 @@
 <td style="background:#DFFFDF;">5</td>
 <td style="background:#FFFFBF;"><i>1</i></td>
 <td style="background:#DFFFDF;"><b>9</b></td>
+<td style="background:#FFFFBF;">1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,8 +74,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>225</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>250</b></td></tr>
 <tr>
 <th>2
 </th>
@@ -90,6 +90,7 @@
 <td style="background:#FFDF9F;">3</td>
 <td style="background:#DFDFDF;"><b>2</b></td>
 <td style="background:#EFCFFF;">Ret</td>
+<td style="background:#DFFFDF;">8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,8 +100,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>184</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>188</b></td></tr>
 <tr>
 <th>3
 </th>
@@ -116,6 +116,7 @@
 <td style="background:#FFFFBF;"><i>1</i></td>
 <td style="background:#DFFFDF;">5</td>
 <td style="background:#FFFFBF;"><i>1</i></td>
+<td style="background:#DFDFDF;"><i><b>2</b></i></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,8 +126,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>162</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>181</b></td></tr>
 <tr>
 <th>4
 </th>
@@ -142,6 +142,7 @@
 <td style="background:#DFFFDF;">4</td>
 <td style="background:#CFCFFF;">16</td>
 <td style="background:#DFDFDF;">2</td>
+<td style="background:#FFDF9F;">3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,8 +152,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>141</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>156</b></td></tr>
 <tr>
 <th>5
 </th>
@@ -168,6 +168,7 @@
 <td style="background:#DFDFDF;"><b>2</b></td>
 <td style="background:#FFDF9F;">3</td>
 <td style="background:#EFCFFF;">Ret</td>
+<td style="background:#DFFFDF;">4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -177,8 +178,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>120</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>132</b></td></tr>
 <tr>
 <th>6
 </th>
@@ -194,6 +194,7 @@
 <td style="background:#DFFFDF;">7</td>
 <td style="background:#DFFFDF;">4</td>
 <td style="background:#CFCFFF;">14<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td style="background:#DFFFDF;">6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -203,8 +204,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>55</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>63</b></td></tr>
 <tr>
 <th>7
 </th>
@@ -220,6 +220,7 @@
 <td style="background:#DFFFDF;">8</td>
 <td style="background:#DFFFDF;">6</td>
 <td style="background:#DFFFDF;">5</td>
+<td style="background:#DFFFDF;">5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,36 +230,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>48</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>58</b></td></tr>
 <tr>
 <th>8
-</th>
-<td style="text-align:left"><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a></td>
-<td style="background:#DFFFDF;">10</td>
-<td style="background:#CFCFFF;">12</td>
-<td style="background:#EFCFFF;">Ret</td>
-<td style="background:#EFCFFF;">Ret</td>
-<td style="background:#DFFFDF;">9</td>
-<td style="background:#DFFFDF;">7</td>
-<td style="background:#DFFFDF;">10</td>
-<td style="background:#CFCFFF;">14</td>
-<td style="background:#CFCFFF;">17</td>
-<td style="background:#DFFFDF;">9</td>
-<td style="background:#FFDF9F;">3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>27</b></td></tr>
-<tr>
-<th>9
 </th>
 <td style="text-align:left"><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a></td>
 <td style="background:#DFFFDF;">8</td>
@@ -272,6 +246,7 @@
 <td style="background:#DFFFDF;">9</td>
 <td style="background:#DFFFDF;">8</td>
 <td style="background:#CFCFFF;">12</td>
+<td style="background:#DFFFDF;">7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -281,8 +256,33 @@
 <td></td>
 <td></td>
 <td></td>
+<td style="background-color:#EAECF0;text-align:center"><b>31</b></td></tr>
+<tr>
+<th>9
+</th>
+<td style="text-align:left"><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Daniil_Kvyat" title="Daniil Kvyat">Daniil Kvyat</a></td>
+<td style="background:#DFFFDF;">10</td>
+<td style="background:#CFCFFF;">12</td>
+<td style="background:#EFCFFF;">Ret</td>
+<td style="background:#EFCFFF;">Ret</td>
+<td style="background:#DFFFDF;">9</td>
+<td style="background:#DFFFDF;">7</td>
+<td style="background:#DFFFDF;">10</td>
+<td style="background:#CFCFFF;">14</td>
+<td style="background:#CFCFFF;">17</td>
+<td style="background:#DFFFDF;">9</td>
+<td style="background:#FFDF9F;">3</td>
+<td style="background:#CFCFFF;">15</td>
 <td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>25</b></td></tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="background-color:#EAECF0;text-align:center"><b>27</b></td></tr>
 <tr>
 <th>10
 </th>
@@ -298,6 +298,7 @@
 <td style="background:#DFFFDF;">6</td>
 <td style="background:#CFCFFF;">11</td>
 <td style="background:#EFCFFF;">Ret</td>
+<td style="background:#DFFFDF;">9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -307,8 +308,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>22</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>24</b></td></tr>
 <tr>
 <th>11
 </th>
@@ -324,7 +324,7 @@
 <td style="background:#CFCFFF;">12</td>
 <td style="background:#DFFFDF;">7</td>
 <td style="background:#EFCFFF;">Ret</td>
-<td></td>
+<td style="background:#CFCFFF;">14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -350,7 +350,7 @@
 <td style="background:#CFCFFF;">14</td>
 <td style="background:#CFCFFF;">13</td>
 <td style="background:#DFFFDF;">4</td>
-<td></td>
+<td style="background:#CFCFFF;">17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -376,7 +376,7 @@
 <td style="background:#CFCFFF;">19</td>
 <td style="background:#EFCFFF;">Ret</td>
 <td style="background:#DFFFDF;">8</td>
-<td></td>
+<td style="background:#CFCFFF;">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -402,7 +402,7 @@
 <td style="background:#CFCFFF;">13</td>
 <td style="background:#DFFFDF;">10</td>
 <td style="background:#EFCFFF;">Ret</td>
-<td></td>
+<td style="background:#CFCFFF;">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -428,6 +428,7 @@
 <td style="background:#CFCFFF;">15</td>
 <td style="background:#CFCFFF;">12</td>
 <td style="background:#DFFFDF;">6</td>
+<td style="background:#DFFFDF;">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -437,8 +438,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td style="background-color:#EAECF0;text-align:center"><b>15</b></td></tr>
+<td style="background-color:#EAECF0;text-align:center"><b>16</b></td></tr>
 <tr>
 <th>16
 </th>
@@ -454,7 +454,7 @@
 <td style="background:#CFCFFF;">11</td>
 <td style="background:#CFCFFF;">17</td>
 <td style="background:#EFCFFF;">Ret</td>
-<td></td>
+<td style="background:#CFCFFF;">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -480,7 +480,7 @@
 <td style="background:#CFCFFF;">16</td>
 <td style="background:#EFCFFF;">Ret</td>
 <td style="background:#DFFFDF;">7</td>
-<td></td>
+<td style="background:#EFCFFF;">Ret</td>
 <td></td>
 <td></td>
 <td></td>
@@ -506,7 +506,7 @@
 <td style="background:#DFFFDF;">10</td>
 <td style="background:#EFCFFF;">Ret</td>
 <td style="background:#CFCFFF;">13</td>
-<td></td>
+<td style="background:#CFCFFF;">18</td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +532,7 @@
 <td style="background:#CFCFFF;">20</td>
 <td style="background:#CFCFFF;">15</td>
 <td style="background:#DFFFDF;">10</td>
-<td></td>
+<td style="background:#CFCFFF;">19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,7 +558,7 @@
 <td style="background:#CFCFFF;">18</td>
 <td style="background:#CFCFFF;">14</td>
 <td style="background:#CFCFFF;">11</td>
-<td></td>
+<td style="background:#CFCFFF;">16</td>
 <td></td>
 <td></td>
 <td></td>

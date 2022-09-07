@@ -4,9 +4,20 @@
 function initialiseDatatable(){
     $(document).ready(function () {
         $('#raw_data_table').DataTable({
-            "order": [[0, "desc"]],
-            "iDisplayLength": 15,
-            "lengthMenu": [[10, 15, 25, 50, -1], [10, 15, 25, 50, "All"]]
+            iDisplayLength: 15,
+            lengthMenu: [[10, 15, 25, 50, -1], [10, 15, 25, 50, "All"]],
+            responsive: {
+                details: {
+                    type: "column",
+                    target: "tr"
+                }
+            },
+            columnDefs: [{
+                className: "control",
+                orderable: false,
+                targets: 0
+            }],
+            order: [[0, "desc"]],
         });
     });
 }

@@ -18,19 +18,19 @@ Clone the repository (or download the zipped project):
 Create a virtual environment for the project and activate it:
 
 ```
-virtualenv ~/Environments/F1-Crash-Stats
-source F1-Crash-Stats/bin/activate
+python3 -m venv ~/Environments/F1_DNF_Stats
+source ~/Environments/F1_DNF_Stats/bin/activate
 ```
 
 Once you have the virtualenv activated and set up, `cd` into the project directory and install the requirements needed to run the app:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 You can now run the app:
 ```
-python run.py
+python3 run.py
 ```
 
 The app will now be running (`Ctrl + C` to stop it) and you can visit it at: `127.0.0.1:4000`

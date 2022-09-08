@@ -1,16 +1,29 @@
-# Formula1-DNF-Stats [![Build Status](https://travis-ci.org/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://travis-ci.org/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE)
+# Formula1-DNF-Stats [![Build Status](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) #
 
-**Formula1-DNF-Stats** is a web application that parses the HTML source code of each Wikipedia page for every Formula 1 season in order to gather data about the DNFs that occurred throughout the seasons.
+## Features ##
 
-The app is written in Flask using Python 3.7 and hosted on Heroku using Gunicorn.
+**Formula1-DNF-Stats** is a web application that parses the source of each Wikipedia page for every Formula 1 season since 1950 in order to gather data about the all DNFs that occurred in the history of F1 and visualise them in plots and tables.
+
+Types of DNFs that are visualised:
+* Ret - Retirements
+* NC - Not Classified
+* DNQ - Did Not Qualify
+* DNPQ - Did Not Pre Qualify
+* DSQ - Disqualified
+* DNS - Did Not Start
+* DNP - Did Not Practice
+* Ex - Excluded
+* WD - Withdrawn
+
+The app is written in Flask using Python 3.9 and hosted on Render using Gunicorn.
 
 You can visit the website live here: [f1-dnf-stats.herokuapp.com](https://f1-dnf-stats.herokuapp.com/)
 
-#### Screenshot
+## Screenshot ##
 
 *todo*
 
-## Usage
+## Local Usage ##
 
 Clone the repository (or download the zipped project):
 `$ git clone https://github.com/Adamouization/Formula1-Crash-Stats`
@@ -33,23 +46,30 @@ You can now run the app:
 python3 run.py
 ```
 
-The app will now be running (`Ctrl + C` to stop it) and you can visit it at: `127.0.0.1:4000`
+The app will be running (`Ctrl + C` to stop it) and you can visit it at: `127.0.0.1:4000`
 
 To run tests: `nosetests -v`
 
-## Releases
+## Releases ##
 
 *todo*
 
-## TODO
+## Features to Implement ##
+
 * see [TODO Project Board (Initial Release)](https://github.com/Adamouization/Formula1-Crash-Stats/projects/1)
 * see [TODO Project Board (Future Releases)](https://github.com/Adamouization/Formula1-Crash-Stats/projects/2)
 
-## License 
+## License ##
+
 * see [LICENSE](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) file.
 
-## Contact
+## Contact ##
+
 * email: adam@jaamour.com
 * website: www.adam.jaamour.com
 * linkedin: [@adamjaamour](https://www.linkedin.com/in/adamjaamour/)
 * twitter: [@Adamouization](https://twitter.com/Adamouization)
+
+## Support ##
+
+<a href="https://www.buymeacoffee.com/adamjaamour"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adamjaamour&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>

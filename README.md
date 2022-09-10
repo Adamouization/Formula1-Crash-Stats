@@ -1,4 +1,4 @@
-# Formula 1 DNF Stats [![Build Status](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/Adamouization/Formula1-Crash-Stats) ![GitHub top language](https://img.shields.io/github/languages/top/Adamouization/Formula1-Crash-Stats) #
+# Formula 1 DNF Stats [![Build Status](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats) ![GitHub Repo stars](https://img.shields.io/github/stars/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/Adamouization/Formula1-Crash-Stats) ![GitHub top language](https://img.shields.io/github/languages/top/Adamouization/Formula1-Crash-Stats) #
 
 ## Features ##
 
@@ -56,7 +56,8 @@ To run tests: `nosetests -v`
 
 ## Releases ##
 
-*todo*
+* v1.0: coming soon
+* [v0.1](https://github.com/Adamouization/Formula1-Crash-Stats/releases/tag/v0.1): 06/09/2019
 
 ## Features to Implement ##
 

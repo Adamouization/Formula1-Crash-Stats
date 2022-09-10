@@ -1,4 +1,4 @@
-# Formula1-DNF-Stats [![Build Status](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) #
+# Formula 1 DNF Stats [![Build Status](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats.svg?branch=master)](https://app.travis-ci.com/Adamouization/Formula1-Crash-Stats) [![GitHub issues](https://img.shields.io/github/issues/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/Formula1-Crash-Stats.svg)](https://github.com/Adamouization/Formula1-Crash-Stats/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/Adamouization/Formula1-Crash-Stats) ![GitHub top language](https://img.shields.io/github/languages/top/Adamouization/Formula1-Crash-Stats) #
 
 ## Features ##
 
@@ -15,9 +15,13 @@ Types of DNFs that are visualised:
 * Ex - Excluded
 * WD - Withdrawn
 
-The app is written in Flask using Python 3.9 and hosted on Render using Gunicorn.
+Stack:
+* Back-end is written in Flask using Python 3.9
+* Front-end written in HTML/CSS/JS, charts powered by HighchartsJS and table powered by JQuery Datatables.
+* Hosted on Render using Gunicorn.
+* Continuous integration implemented with Travis CI and Render.
 
-You can visit the website live here: [f1-dnf-stats.herokuapp.com](https://f1-dnf-stats.herokuapp.com/)
+You can visit the website live here: [f1-dnf-stats.onrender.com](https://f1-dnf-stats.onrender.com)
 
 ## Screenshot ##
 

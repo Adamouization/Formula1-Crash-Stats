@@ -21,7 +21,7 @@ Stack:
 * Hosted on Render using Gunicorn.
 * Continuous integration implemented with Travis CI and Render.
 
-You can visit the website live here: [f1-dnf-stats.onrender.com](https://f1-dnf-stats.onrender.com)
+You can visit the website live here: [f1-dnf-stats.fly.dev](https://f1-dnf-stats.fly.dev/)
 
 ## Screenshot ##
 

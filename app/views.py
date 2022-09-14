@@ -24,18 +24,29 @@ def index():
     total_classified_finish_series = list()
     total_race_entries_series = list()
 
+    # Get path to raw HTML data files
     raw_data_files_path = os.path.join(app.root_path, 'raw_data')
+
+    # Check path is correct
     if os.path.exists(raw_data_files_path):
+
+        # Loop through each file
         for filename in sorted(os.listdir(raw_data_files_path)):
+
+            # Pars each line in file
             parser = FormulaOneDNFParser()
             with open(os.path.join(raw_data_files_path, filename), 'r') as file:
                 for line in file:
                     parser.feed(line)
-            # raw data
             season_data = parser.get_dnf_stats_json()
+
+            # Save season year from filename
             season_data['season'] = filename
+
+            # Save all extracted data in 1 go
             raw_data.append(season_data)
-            # chart data
+
+            # Save individual data pieces for chart
             categories.append(filename)
             ret_series.append(parser.get_ret())
             nc_series.append(parser.get_nc())

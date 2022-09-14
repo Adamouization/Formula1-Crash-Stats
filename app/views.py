@@ -8,7 +8,7 @@ from .models import FormulaOneDNFParser
 
 @app.route('/')
 @app.route('/index')
-def index():
+def index() -> str:
     raw_data = list()
     categories = list()
     ret_series = list()
@@ -83,10 +83,10 @@ def index():
 
 
 @app.route('/help')
-def help_page():
+def help_page() -> str:
     return render_template('help.html')
 
 
 @app.route('/about')
-def about_page():
+def about_page() -> str:
     return render_template('about.html')

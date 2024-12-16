@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,6 +59,7 @@
         <div class="topnav-right">
             <a href="{{ url_for('help_page') }}">Help</a>
             <a href="{{ url_for('about_page') }}">About</a>
+            <a href="{{ url_for('privacy_page') }}">Privacy Policy</a>
         </div>
     </div>
 
@@ -71,9 +72,11 @@
 <div class="content">
     <footer class="footer">
         <p>
-            <a href={{ url_for('index') }}>Home</a> ·
-            <a href={{ url_for('help_page') }}>Help</a> ·
-            <a href={{ url_for('about_page') }}>About</a>
+            My other websites: 
+            <a href="https://www.globeflix.app/?ref=f1dnfstats" target="_blank">GlobeFlix</a> ·
+            <a href="https://adam.jaamour.com/?ref=f1dnfstats" target="_blank">Portfolio</a> ·
+            <a href="https://adamouization.github.io/?ref=f1dnfstats" target="_blank">Retro Blog</a>
+
         </p>
         <p class="footer-right">Built with Python and <span class="love">❤</span> by <a
                 href="http://www.adam.jaamour.com/">Adam Jaamour</a> &copy; <span id="year"></span>

@@ -70,7 +70,7 @@ To run tests: `nosetests -v`
 
 ## Contact ##
 
-* email: adam@jaamour.com
+* email: hello[at]jaamour[dot]com
 * website: www.adam.jaamour.com
 * linkedin: [@adamjaamour](https://www.linkedin.com/in/adamjaamour/)
 * twitter: [@Adamouization](https://twitter.com/Adamouization)

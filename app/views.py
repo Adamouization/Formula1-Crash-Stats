@@ -90,3 +90,8 @@ def help_page() -> str:
 @app.route('/about')
 def about_page() -> str:
     return render_template('about.html')
+
+
+@app.route('/privacy')
+def privacy_page() -> str:
+    return render_template('privacy.html')

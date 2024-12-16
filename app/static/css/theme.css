@@ -66,6 +66,7 @@ hr.shadow {
 .footer-right {
     margin-left: auto;
     margin-right: 20px;
+    padding-right: 30px; /* to not be hidden by Buy Me A Coffee Button */
 }
 
 .welcome-text {
